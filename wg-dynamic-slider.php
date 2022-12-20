@@ -3,7 +3,7 @@
 Plugin Name: WG Dynamic Custom Slider
 Plugin URI: https://www.iwangoweb.com/
 Description: 動態投影片輪播短碼，使用者可選擇3~5個圖片並於前台顯示投影片輪播。
-Version: 1.3
+Version: 1.4
 Author: 玩構網路
 Author URI: https://www.iwangoweb.com/about/
 */
