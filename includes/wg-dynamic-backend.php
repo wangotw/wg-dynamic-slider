@@ -21,7 +21,7 @@ global $wg_image, $wg_title, $wg_link;
         while($acf->have_posts()){
             $acf->the_post();
             //取得後台資料
-            for($i = 0 ; $i < 3 ; $i++){
+            for($i = 0 ; $i < 5 ; $i++){
                 $wg_image[$i] = get_field("image" . ($i+1));
                 $wg_title[$i] = get_field("title" . ($i+1));
                 $wg_link[$i] = get_field("link" . ($i+1));
